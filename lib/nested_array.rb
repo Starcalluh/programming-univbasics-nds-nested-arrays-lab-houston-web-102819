@@ -33,15 +33,24 @@ def array_literal_matrix
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"
+<<<<<<< HEAD
 ].sort,
+=======
+],
+>>>>>>> a38a2cead1b328ce5b9ae395e23c7590fd93602b
     [
   "Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
   "Michael Pemulis"
+<<<<<<< HEAD
 ].sort
 ]
+=======
+]
+].sort
+>>>>>>> a38a2cead1b328ce5b9ae395e23c7590fd93602b
   
 end
 
